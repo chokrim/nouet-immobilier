@@ -1,0 +1,10 @@
+.navbar-inverse {
+    
+     
+    background: linear-gradient( to left,rgb(53, 57, 58), rgb(166, 180, 194));
+         }
+
+.navbar-nav  {
+
+    padding-top: 80px;
+}
